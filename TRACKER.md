@@ -11,7 +11,7 @@
     - [x] [Introduction](https://youtu.be/4EP8YzcN0hQ)
     - [x] [How it works](https://youtu.be/4EP8YzcN0hQ?t=93)
     - [x] [Setup Installation](https://youtu.be/4EP8YzcN0hQ?t=1486)
-    - [ ] [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
+    - [x] [Input and Output in Java](https://youtu.be/TAtrPoaJ7gc)
     - [ ] [Conditionals & Loops in Java](https://youtu.be/ldYLYRNaucM?t=88)
         - [ ] [if-else](https://youtu.be/ldYLYRNaucM?t=88)
         - [ ] [loops](https://youtu.be/ldYLYRNaucM?t=440)
