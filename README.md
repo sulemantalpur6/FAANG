@@ -27,7 +27,6 @@ I’ll be covering DSA concepts in a structured way:
 ## 🛠️ Resources
 
 - 📺 [Kunal Kushwaha’s DSA Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- 📘 Standard DSA Books (CLRS, etc.)
 - 💻 Problem Solving Platforms: [LeetCode](https://leetcode.com/), [Codeforces](https://codeforces.com/), [CodeChef](https://www.codechef.com/)
 
 ---
@@ -43,15 +42,9 @@ I’ll be covering DSA concepts in a structured way:
 ## 📂 Repo Structure
 
 ```plaintext
-DSA/
+FAANG/src
 │
-├── 01_Basics/
-├── 02_Sorting_Searching/
-├── 03_Recursion/
-├── 04_Arrays/
-├── 05_LinkedList/
-├── 06_Stack_Queue/
-├── 07_Trees/
-├── 08_Graphs/
-├── 09_DP/
+├── p1/java
+├── p2/dsa
+├── p3/systemdesign
 └── README.md
