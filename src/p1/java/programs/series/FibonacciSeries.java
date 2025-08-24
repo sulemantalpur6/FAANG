@@ -1,6 +1,6 @@
 package p1.java.programs.series;
 
-import static utils.InputUtils.getInt;
+import static p5.utils.InputUtils.getInt;
 
 public class FibonacciSeries {
     public static void main(String[] args) {

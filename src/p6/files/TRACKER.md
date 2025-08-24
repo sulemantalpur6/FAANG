@@ -3,7 +3,7 @@
 - [ ] [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [x] [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
     - [x] [Types of languages](https://youtu.be/wn49bJOYAZM?t=171)
-    - [] [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
+    - [x] [Memory management](https://youtu.be/wn49bJOYAZM?t=1488)
 - [x] [Flow of the program](https://youtu.be/lhELGQAV4gg)
     - [x] [Flowcharts](https://youtu.be/lhELGQAV4gg)
     - [x] [Pseudocode](https://youtu.be/lhELGQAV4gg?t=715)

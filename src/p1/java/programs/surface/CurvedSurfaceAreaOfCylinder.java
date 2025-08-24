@@ -1,6 +1,6 @@
 package p1.java.programs.surface;
 
-import static utils.InputUtils.getInt;
+import static p5.utils.InputUtils.getInt;
 
 public class CurvedSurfaceAreaOfCylinder {
     public static void main(String[] args) {

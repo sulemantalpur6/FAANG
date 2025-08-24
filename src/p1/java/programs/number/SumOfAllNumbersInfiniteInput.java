@@ -1,6 +1,6 @@
 package p1.java.programs.number;
 
-import static utils.InputUtils.getInt;
+import static p5.utils.InputUtils.getInt;
 
 public class SumOfAllNumbersInfiniteInput {
     public static void main(String[] args) {

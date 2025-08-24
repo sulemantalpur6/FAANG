@@ -1,4 +1,4 @@
-package utils;
+package p5.utils;
 
 import java.util.Scanner;
 

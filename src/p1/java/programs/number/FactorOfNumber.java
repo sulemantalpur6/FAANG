@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import static utils.InputUtils.getInt;
+import static p5.utils.InputUtils.getInt;
 
 public class FactorOfNumber {
     public static void main(String[] args) {
