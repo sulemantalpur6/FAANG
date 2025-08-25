@@ -26,6 +26,16 @@ public class InputUtils {
     }
 
     /**
+     * Method to get float input from the user.
+     *
+     * @return the float input from the user
+     */
+    public static float getFloat() {
+        Scanner sc = new Scanner(System.in);
+        return sc.nextFloat();
+    }
+
+    /**
      * Method to get string input from the user.
      *
      * @return the string input from the user

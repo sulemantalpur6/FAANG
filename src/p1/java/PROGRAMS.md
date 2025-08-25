@@ -49,9 +49,9 @@
 6. [Calculate Commission Percentage](https://javatutoring.com/commission-percentage-java-program/)
 7. Power In Java
 8. [Calculate Depreciation of Value](https://www.geeksforgeeks.org/dsa/program-to-find-the-depreciation-of-value/)
-9. Calculate Batting Average
-10. Calculate CGPA Java Program
-11. Compound Interest Java Program
+9. [Calculate Batting Average](https://www.geeksforgeeks.org/dsa/find-the-batting-average-of-a-batsman/)
+10. Calculate CGPA
+11. [Compound Interest](https://www.geeksforgeeks.org/java/java-program-for-compound-interest/)
 12. Calculate Average Marks
 13. Sum Of N Numbers
 14. Armstrong Number In Java
