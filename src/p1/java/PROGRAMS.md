@@ -41,14 +41,14 @@
 
 
 ### Intermediate Java Programs
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points
-6. Calculate Commission Percentage
+1. [Factorial Program In Java](https://www.geeksforgeeks.org/java/java-program-for-factorial-of-a-number/)
+2. [Calculate Electricity Bill](https://www.geeksforgeeks.org/dsa/program-to-calculate-electricity-bill/)
+3. [Calculate Average Of N Numbers](https://www.geeksforgeeks.org/dsa/find-average-first-n-natural-numbers/)
+4. [Calculate Discount Of Product](https://www.geeksforgeeks.org/dsa/program-to-find-the-discount-percentage/)
+5. [Calculate Distance Between Two Points](https://www.geeksforgeeks.org/dsa/program-calculate-distance-two-points/)
+6. [Calculate Commission Percentage](https://javatutoring.com/commission-percentage-java-program/)
 7. Power In Java
-8. Calculate Depreciation of Value
+8. [Calculate Depreciation of Value](https://www.geeksforgeeks.org/dsa/program-to-find-the-depreciation-of-value/)
 9. Calculate Batting Average
 10. Calculate CGPA Java Program
 11. Compound Interest Java Program
