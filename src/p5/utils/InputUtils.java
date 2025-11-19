@@ -8,6 +8,8 @@ import java.util.Scanner;
  */
 public class InputUtils {
 
+    static Scanner sc = new Scanner(System.in);
+
     /**
      * Private constructor to prevent instantiation of the utility class.
      */
@@ -16,12 +18,20 @@ public class InputUtils {
     }
 
     /**
+     * Method to get char input from the user.
+     *
+     * @return the char input from the user
+     */
+    public static char getChar() {
+        return sc.next().charAt(0);
+    }
+
+    /**
      * Method to get integer input from the user.
      *
      * @return the integer input from the user
      */
     public static int getInt() {
-        Scanner sc = new Scanner(System.in);
         return sc.nextInt();
     }
 
@@ -31,7 +41,6 @@ public class InputUtils {
      * @return the float input from the user
      */
     public static float getFloat() {
-        Scanner sc = new Scanner(System.in);
         return sc.nextFloat();
     }
 
@@ -41,7 +50,6 @@ public class InputUtils {
      * @return the string input from the user
      */
     public static String getString() {
-        Scanner sc = new Scanner(System.in);
         return sc.nextLine();
     }
 }
