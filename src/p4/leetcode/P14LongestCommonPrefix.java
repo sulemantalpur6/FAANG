@@ -1,12 +1,8 @@
 package p4.leetcode;
 
 public class P14LongestCommonPrefix {
-    public static void main(String[] args) {
-        String commonPrefix = longestCommonPrefix(new String[]{"dog", "race", "cat"});
-        commonPrefix = mySolution(new String[]{"dog", "race", "cat"});
-    }
 
-    static String longestCommonPrefix(String[] strs) {
+    String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) {
             return "";
         }
@@ -20,7 +16,7 @@ public class P14LongestCommonPrefix {
         return prefix;
     }
 
-    private static String mySolution(String[] strs) {
+    private String mySolution(String[] strs) {
         String firstStr = strs[0];
         String secondStr = strs[1];
         StringBuilder commonPrefix = new StringBuilder();
