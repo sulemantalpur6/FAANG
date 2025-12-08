@@ -11,9 +11,4 @@ public class P27RemoveElement {
         }
         return k;
     }
-
-    public static void main(String[] args) {
-
-        int k = removeElement(new int[]{3, 2, 2, 3}, 3);
-    }
 }
